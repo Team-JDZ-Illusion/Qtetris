@@ -10,3 +10,7 @@
 BGM：
 
 全部来自东方Project,使用开源编曲软件进行编曲，midi文件来自仓库https://github.com/AyHa1810/touhou-midi-collection
+
+
+注意：
+构建完成后应该将resources文件夹放在生成的可执行文件同级目录下否则无法正确播放音频
