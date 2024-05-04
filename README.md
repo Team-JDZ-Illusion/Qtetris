@@ -13,7 +13,7 @@ F2可以暂停或继续游戏
 
 BGM：
 
-全部来自东方Project,使用开源编曲软件进行编曲，midi文件来自仓库https://github.com/AyHa1810/touhou-midi-collection
+全部来自东方Project,使用开源编曲软件LMMS进行编曲，midi文件来自仓库https://github.com/AyHa1810/touhou-midi-collection
 
 
 注意：
